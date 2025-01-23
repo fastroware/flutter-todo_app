@@ -14,6 +14,7 @@ class _HomePageState extends State<HomePage> {
     ['web app', false],
     ['android dev', true],
     ['Go spot', true],
+    ['Turu', true],
   ];
 
   void cekCheckbox(int index) {
